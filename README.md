@@ -38,4 +38,4 @@ The goal is to **build an accurate house price prediction model** using structur
   - **Jupyter Notebook**
   - **Scikit-learn**
   - **Pandas, NumPy, Matplotlib, Seaborn**
-  - **BeautifulSoup, Selenium (For web scraping)**
+  - **Scrapy (For web scraping)**
